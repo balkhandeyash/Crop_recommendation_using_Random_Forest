@@ -12,7 +12,7 @@ _This is my machine learning project of Crop Recommendation System using Random 
 
 - [Crop Recommendation System PPT](https://github.com/balkhandeyash/Crop_recommendation_using_Random_Forest/blob/faae2bc20a490fe5662879302feca0e78e9a54b0/Crop%20RecommendationRF.pdf)
 
-- [Explaination Video](https://youtu.be/ragYUGYemjY)
+- [Explanation Video](https://youtu.be/ragYUGYemjY)
 
 
 
